@@ -1,0 +1,210 @@
+_____________________________________________________________________________________
+HCal_Ring_Gear_information.py retrieving GEAR information for HCal Ring Digitisation
+For Muons with energy                              :10 /GeV 
+Absorber_Thickness_Ring                            : 22.2 /mm 
+Scintillator_Thickness_Ring                        : 3.0 /mm 
+Absorber_Thickness_EndCap                          : 20.0 /mm 
+Scintillator_Thickness_EndCap                      : 3.0 /mm 
+
+Ratio used for HCal Ring Digitisation is           : 
+Absorber_Thickness_EndCap x Scintillator_Thickness_Ring
+-------------------------------------------------------     = 0.900900900901
+Scintillator_Thickness_EndCap x Absorber_Thickness_Ring
+
+_____________________________________________________________________________________
+HCal_Ring_Digi_Extract.py finding MIP peak ratios (Ring/Other to EndCap) for HCal
+For Muons with energy                              :10 /GeV 
+
+Ring MIP Peak                                      : /ADC Units 
+
+EndCap MIP Peak                                    : /ADC Units 
+
+_____________________________________________________________________________________
+HCal_Direction_Corrections_Extract.py finding mean direction corrections ratio 
+(Ring/Other to EndCap) for HCal.
+For KaonL events with energy                       :20 /GeV 
+
+Ring Mean Direction Correction                     : 
+
+EndCap Mean Direction Correction                   : 
+
+_____________________________________________________________________________________
+CalibrHCALOther                                     :  
+_____________________________________________________________________________________
+Extract_GeVToMIP.py extracting ECalGeVToMIP.
+For Muon events with energy                        :10 /GeV 
+
+ECalGeVToMIP is:                                   : 
+
+_____________________________________________________________________________________
+Extract_GeVToMIP.py extracting HCalGeVToMIP.
+For Muon events with energy                        :10 /GeV 
+
+HCalGeVToMIP is:                                   : 
+
+_____________________________________________________________________________________
+Extract_GeVToMIP.py extracting MuonGeVToMIP.
+For Muon events with energy                        :10 /GeV 
+
+MuonGeVToMIP is:                                   : 
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 42.77
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 427.7
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 427.7
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4277.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 4277.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 42770.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 42770.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 427700.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 427700.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4277000.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 4277000.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 42770000.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 42770000.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 427700000.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 427700000.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4277000000.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 4277000000.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 42770000000.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 42770000000.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 427700000000.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 427700000000.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4.277e+12
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 4.277e+12
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4.277e+13
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 42.77
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 427.7
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 427.7
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4277.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 43.065
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 430.65
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 430.65
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4306.5
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 4306.5
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 43065.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 43065.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 430650.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 430650.0
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 4306500.0
+
+_____________________________________________________________________________________
+ECal_Digi_Extract.py retrieving CalibrECal from digitisation program. 
+Photon Energy To Calibrate                         : 10 /GeV 
+Initial Calibration Constant                       : 43.065
+CalibrECal Mean                                    : 1.0 /GeV
+
+CalibrECal                                         : 430.65
+
